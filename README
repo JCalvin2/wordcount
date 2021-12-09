@@ -1,0 +1,4 @@
+This code counts the words of a given input file (txt). It does this by using multiple processes and pipes. This is an introduction to using pipes and processes.
+How to run
+sudo -g -lm -o pwordcount pwordcount.c
+./pwordcount
